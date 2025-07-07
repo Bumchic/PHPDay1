@@ -32,5 +32,6 @@
         echo $max;
     }
     ?>
+    <H2>Random ahh</H2>
 </body>
 </html>
